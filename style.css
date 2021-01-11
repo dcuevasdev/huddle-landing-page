@@ -8,13 +8,37 @@ body {
 }
 
 .header .navbar img {
-  width: 100px;
+  width: 150px;
+}
+
+.container .mockups img {
+  width: 100%;
+}
+
+.container .text {
+  color: white;
+}
+.container .text h2 {
+  font-size: 24px;
+  line-height: 150%;
+}
+.container .text .btn-huddle {
+  width: 200px;
+  height: 35px;
+  border-radius: 50px;
+  color: var(--violet);
+  background-color: white;
+}
+.container .text .btn-huddle:hover {
+  color: white;
+  background-color: var(--soft-magenta);
 }
 
 .attribution {
   font-size: 11px;
   text-align: center;
+  color: white;
 }
 .attribution a {
-  color: #3e52a3;
+  color: var(--soft-magenta);
 }
