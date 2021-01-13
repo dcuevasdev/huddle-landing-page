@@ -5,11 +5,11 @@
 
 @font-face {
   font-family: "icomoon";
-  src: url("../fonts/icomoon.eot?txpsj6");
-  src: url("../fonts/icomoon.eot?txpsj6#iefix") format("embedded-opentype"),
-    url("../fonts/icomoon.ttf?txpsj6") format("truetype"),
-    url("../fonts/icomoon.woff?txpsj6") format("woff"),
-    url("../fonts/icomoon.svg?txpsj6#icomoon") format("svg");
+  src: url("fonts/icomoon.eot?txpsj6");
+  src: url("fonts/icomoon.eot?txpsj6#iefix") format("embedded-opentype"),
+    url("fonts/icomoon.ttf?txpsj6") format("truetype"),
+    url("fonts/icomoon.woff?txpsj6") format("woff"),
+    url("fonts/icomoon.svg?txpsj6#icomoon") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -51,7 +51,7 @@
 }
 
 body {
-  background-image: url(/images/bg-mobile.svg);
+  background-image: url(images/bg-mobile.svg);
   background-repeat: no-repeat;
   background-position: top 0;
   background-size: contain;
@@ -108,7 +108,7 @@ body {
 
 @media (min-width: 768px) {
   body {
-    background-image: url(/images/bg-desktop.svg);
+    background-image: url(images/bg-desktop.svg);
     background-repeat: no-repeat;
     background-position: top 0;
     background-size: cover;
