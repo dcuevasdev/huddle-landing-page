@@ -22,7 +22,7 @@
 
 ## 🚀 Deploy
 
-En el siguiente link puedes ver la [web del challenge](https://dcuevas24.github.io/huddle-landing-page/"web del challenge")
+En el siguiente link puedes ver la [web del challenge](https://dcuevas24.github.io/huddle-landing-page/ "web del challenge")
 
 ### Desktop 💻
 
